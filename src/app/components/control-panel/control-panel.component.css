@@ -1,0 +1,42 @@
+#container {
+	background-color: black;
+	height: 47vw;
+}
+
+#title {
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+
+#grid-container {
+
+	display: flex;
+	justify-content: center;
+
+}
+
+#instance-grid {
+	background-color: rgb(78, 78, 78);
+	padding: 30px;
+	display: grid;
+	grid-template-columns: 105px 105px 105px 105px 105px;
+	grid-template-rows: 105px 105px 105px 105px 105px;
+
+
+	
+}
+
+#panel {
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+}
+
+#creator {
+	width: 150px;
+	height: 70px;
+	background-color: rgb(76, 76, 77);
+	color: black;
+	font-weight: 900;
+}

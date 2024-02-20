@@ -1,0 +1,13 @@
+#background {
+	background-color: darkblue;
+
+	display: flex;
+	justify-content: center;
+	width: 100px;
+	height: 100px;
+}
+
+#content {
+	color: rgb(255, 72, 72);
+	margin-top: 10px;
+}
